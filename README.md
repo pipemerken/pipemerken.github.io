@@ -35,6 +35,6 @@ Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstra
 
 ## Proyecto
 
-Puedes acceder al proyecto en: https://pipemerken.github.io/portafolio/
+Puedes acceder al proyecto en: https://pipemerken.github.io/
 
 
